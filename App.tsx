@@ -57,3 +57,5 @@ export default App;
 //node rnapp/node_modules/react-native/scripts/generate-codegen-artifacts.js \
 // --path rnapp/ \
 // --outputPath rnapp/RTNCopyToClipboard/generated/
+
+//https://github.com/BraveEvidence/ReactNativeNewArchCopyToClipboard2023

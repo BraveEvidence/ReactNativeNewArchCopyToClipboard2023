@@ -7,7 +7,7 @@ RCT_EXPORT_MODULE()
 
 - (void)copyToClipboard:(NSString *)value{
   UIPasteboard * pasteboard=[UIPasteboard generalPasteboard];
-  [pasteboard setString:text];
+  [pasteboard setString:value];
 }
 
 - (std::shared_ptr<facebook::react::TurboModule>)getTurboModule:
